@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  color: seagreen;
+  background: linear-gradient(#34eb46 0%, #34ebcc 100%);
+        font-family: 'Raleway', sans-serif;
+
+}
+
+p {
+  color: mediumpurple;
+    font-family: 'Raleway', sans-serif;
+}
+
+.percy {
+  border-radius: 100px;
+}
+
+#character {
+  font-family: Courier New;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.menu{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    list-style: none;
+    color: aquamarine;
+    cursor: pointer;
+    margin: 1px;
+    
+}
+
+.links{
+    float:left;
+    color: #fff;
+    font-family: fantasy;
+    padding: 5px;
+    font-size: 30px;
+}
+
+.links:hover{
+    background-color: dodgerblue;
+}
